@@ -13,8 +13,8 @@ Your Rationale: I think it's better to use attractive colors to introduce the ne
 
 2. A triadic color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=32C0m1kllllaFw0g0qFqFg0w0aFkpespaFw0g0qFqFg0w0aFkllllaFw0g0qFqFg0w0aF
+Your Rationale: I choose this color because it's springtime tours and people like something that is attractive and associated flowers
 
 3. A triadic color palette for styling the login page for a private messaging app
 
