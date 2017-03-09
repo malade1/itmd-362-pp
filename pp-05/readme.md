@@ -18,8 +18,8 @@ Your Rationale: I choose this color because it's springtime tours and people lik
 
 3. A triadic color palette for styling the login page for a private messaging app
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=32L0u0knZ++nZ++nZ++nZ++nZ++
+Your Rationale: I picked this color because it cool and green is the color of balance and growth, it will be nice to see in on the login page because it show self-reliance as a positive and possessiveness
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
