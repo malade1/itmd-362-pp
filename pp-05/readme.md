@@ -23,6 +23,7 @@ Your Rationale: I picked this color because it cool and green is the color of ba
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: hhttp://paletton.com/#uid=15s050kCViwsMrHvomvM8dRUg8j
+Your Rationale: I decided to use this color becuase it is attractive and widely used. It is not too sharp. Mangenta is the color of the Universal harmony, it will be nice for advertising on a Ruby on Rails
+
 
