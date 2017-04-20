@@ -26,8 +26,11 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch: https://msdn.microsoft.com/en-us/library/windows/desktop/dn742480(v=vs.85).aspx
+* HCI Guidline One (URL):https://msdn.microsoft.com/en-us/library/windows/desktop/dn742480(v=vs.85).aspx
+
+* How you implemented it in your sketch: I would implement branding by using Illinois Technology logo and background  the school is using to brand itself. Also design the main login page section.
+
+
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch: https://msdn.microsoft.com/library/windows/desktop/dn742463.aspx
