@@ -27,10 +27,10 @@ Small commits to your Production Problems repository that include:
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 * HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* How you implemented it in your sketch: https://msdn.microsoft.com/en-us/library/windows/desktop/dn742480(v=vs.85).aspx
 
 * HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* How you implemented it in your sketch: https://msdn.microsoft.com/library/windows/desktop/dn742463.aspx
 
 * HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* How you implemented it in your sketch: https://msdn.microsoft.com/library/windows/desktop/dn742399.aspx
