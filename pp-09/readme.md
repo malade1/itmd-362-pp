@@ -13,14 +13,14 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.Collect data about existing products and take feedback.
-2.Brainstorm, sketch ideas and build prototypes if possible.
-2.Plan and draft user need.
-3.Try to know the problem and find solution to the probelm
-4.Avoid error by testing your design before devering to the user.
-5.Have a user testing to be able to know if the design meet requirement
-6.Use appropriate font size for readability
-7.Include relevent images and text only
-8.Let the message be as clear as possible 
-9.Create your user's flow based on the scenarios you created
-10.Reuse elements and patterns. Follow your style guidelines
+1. Collect data about existing products and take feedback.
+2. Brainstorm, sketch ideas and build prototypes if possible.
+2. Plan and draft user need.
+3. Try to know the problem and find solution to the probelm
+4. Avoid error by testing your design before devering to the user.
+5. Have a user testing to be able to know if the design meet requirement
+6. Use appropriate font size for readability
+7. Include relevent images and text only
+8. Let the message be as clear as possible 
+9. Create your user's flow based on the scenarios you created
+10. Reuse elements and patterns. Follow your style guidelines
