@@ -32,8 +32,8 @@ Small commits to your Production Problems repository that include:
 
 
 
-* HCI Guidline Two (URL):
+* HCI Guidline Two (URL): I decided to use layout with spacing between elements, i wanted the fields to be easily acessible so that username and the password has more spacing.
 * How you implemented it in your sketch: https://msdn.microsoft.com/library/windows/desktop/dn742463.aspx
 
-* HCI Guidline Three (URL):
+* HCI Guidline Three (URL): Schedule shows up when you click the drop up button and there are check boxes to the course
 * How you implemented it in your sketch: https://msdn.microsoft.com/library/windows/desktop/dn742399.aspx
