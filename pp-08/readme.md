@@ -20,7 +20,7 @@ B. Emotional design levels of your object:
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
-1.Behavioral qualities: The website must have functionability. Easy to see and less links with user friendly
-2.Visceralqualities: add and drop link should be easily accessible without going to unncessary links
-3.Reflective qualities: We need to remove unnecessary links so that we can easily go back to the visited link
+1. Behavioral qualities: The website must have functionability. Easy to see and less links with user friendly
+2. Visceralqualities: add and drop link should be easily accessible without going to unncessary links
+3. Reflective qualities: We need to remove unnecessary links so that we can easily go back to the visited link
 
